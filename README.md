@@ -22,9 +22,9 @@
 
 <h2>My personal stack</h2>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"                      alt="PHP">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"        alt="JavaScript">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"              alt="Laravel">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"               alt="Vue">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"                    alt="Scss">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"        alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="CassandraDB">
 <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=F74F29"                     alt="GIT">
@@ -45,7 +45,7 @@
 
 <br>
 
-<h2>Contacts<span style="font-size: 8pt;">(clickable)</span></h2> 
+<h2>My networks<span style="font-size: 8pt;">(clickable)</span></h2> 
 
 <a href="https://www.linkedin.com/in/raphael-azambuja-15001a212/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
@@ -55,6 +55,10 @@
 </a>
 <a href="https://api.whatsapp.com/send/?phone=554899341106&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="">
+</a>
+
+<a href="https://music.youtube.com/browse/VLPLFlBwRR-pMPGnLoUuBa_bDaCBEp3gBTs6" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="">
 </a>
 
 </div>
