@@ -1,4 +1,4 @@
-<div style="text-align:center;" >
+<div style="align:center;" >
 
 <h1>About me</h1>
 
@@ -6,7 +6,7 @@
 
 <h3>I'm a developer... not just web. I am someone passionate about technology and I like to solve any kind of problem and mainly help people with good software.</h3> 
 
-<div style="text-align:center;">
+<div style="align:center;">
 
 <br>
 
