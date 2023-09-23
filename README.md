@@ -1,60 +1,39 @@
-<h1 align="center">About me</h1>
+# About me
 
-<h3>I'm a developer. I am someone passionate about technology and I like to solve any kind of problem and mainly help people with good software.</h3> 
+I'm a developer. I am someone passionate about technology and I like to solve any kind of problem and mainly help people with good software.
 
-<div align="center">
+## My current work stack
 
-<br>
+![CakePHP](https://img.shields.io/badge/cakePHP-1D0036?style=for-the-badge&logo=cakephp&logoColor=red)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2>My current work stack</h2> 
+## My personal stack
 
-<img src="https://img.shields.io/badge/cakePHP-1D0036?style=for-the-badge&logo=cakephp&logoColor=red"       alt="CakePHP">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"       alt="jQuery">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"         alt="MySQL">
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br>
+## Tools that catch my attention
 
-<h2>My personal stack</h2>
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC342D?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"              alt="Laravel">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"               alt="Vue">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"                    alt="Scss">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"        alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="CassandraDB">
-<img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=F74F29"                     alt="GIT">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"                  alt="Linux">
+## My networks
 
-<br>
-
-<h2>Tools that catch my attention</h2> 
-
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC342D?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"             alt="Cpp">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"                alt="Java">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"                   alt="Rust">
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"                     alt="Lua">
-<img src="https://img.shields.io/badge/Python-417FB0?style=for-the-badge&logo=python&logoColor=white"               alt="Python">
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"         alt="Redis">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"                 alt="MySQL">
-
-<br>
-
-<h2>My networks<span style="font-size: 8pt;">(clickable)</span></h2> 
-
-<a href="https://www.linkedin.com/in/raphael-azambuja-15001a212/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-</a>    
-<a href="https://t.me/RaphaelAzambuja" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="">
-</a>
-<a href="https://api.whatsapp.com/send/?phone=554899341106&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="">
-</a>
-
-<a href="https://music.youtube.com/browse/VLPLFlBwRR-pMPGnLoUuBa_bDaCBEp3gBTs6" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="">
-</a>
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/raphael-azambuja-15001a212/)
+- [Telegram](https://t.me/RaphaelAzambuja)
+- [WhatsApp](https://api.whatsapp.com/send/?phone=554899341106&text&type=phone_number&app_absent=0)
+- [YouTube Music](https://music.youtube.com/browse/VLPLFlBwRR-pMPGnLoUuBa_bDaCBEp3gBTs6)
