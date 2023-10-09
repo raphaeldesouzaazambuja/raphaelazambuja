@@ -1,7 +1,10 @@
-# About me
 
-I'm a developer. I am someone passionate about technology and I like to solve any kind of problem and mainly help people with good software.
+## I'm Raphael Azambuja
 
+- I live in :brazil:
+
+- I'm back-end developer :computer:
+  
 ## My current work stack
 
 ![CakePHP](https://img.shields.io/badge/cakePHP-1D0036?style=for-the-badge&logo=cakephp&logoColor=red)
@@ -37,3 +40,5 @@ I'm a developer. I am someone passionate about technology and I like to solve an
 - [Telegram](https://t.me/RaphaelAzambuja)
 - [WhatsApp](https://api.whatsapp.com/send/?phone=554899341106&text&type=phone_number&app_absent=0)
 - [YouTube Music](https://music.youtube.com/browse/VLPLFlBwRR-pMPGnLoUuBa_bDaCBEp3gBTs6)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=raphaelazambuja&show_icons=true&count_private=true&theme=radical)
