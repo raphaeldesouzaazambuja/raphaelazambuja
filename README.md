@@ -1,14 +1,13 @@
 # Raphael Azambuja
 
 - I live in :brazil:
-- I'm back-end developer :computer:
+- I'm developer 🤨
 - And Linux user :penguin:
 
 ## Langs and Tools
 
-![ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![golang](https://img.shields.io/badge/GoLang-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+![rubyonrails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![shell](https://img.shields.io/badge/ShellScript-241F31.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![psql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -22,4 +21,3 @@
 - [LinkedIn](https://www.linkedin.com/in/raphael-azambuja-15001a212/)
 - [Telegram](https://t.me/RaphaelAzambuja)
 - [WhatsApp](https://api.whatsapp.com/send/?phone=554899341106&text&type=phone_number&app_absent=0)
-- [YouTube Music](https://music.youtube.com/browse/VLPLFlBwRR-pMPGnLoUuBa_bDaCBEp3gBTs6)
